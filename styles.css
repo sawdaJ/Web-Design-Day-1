@@ -1,0 +1,60 @@
+.jumbotron h1 {
+    color: rgb(30, 30, 30);;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+nav * {
+    color: rgb(30, 30, 30);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.jumbotron p a {
+    color: rgb(255, 143, 177);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.blog-post:first-of-type {
+    background-color: rgb(252, 226, 219);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.blog-post hr:first-of-type {
+    border-color: rgb(255, 143, 177);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+nav span:nth-of-type(even) {
+    color: rgb(128, 72, 156);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.blog-sidebar div:nth-of-type(2) ol li:nth-of-type(even) a {
+    color: rgb(255, 143, 177);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.blog-post:nth-of-type(2) .blog-post-meta a {
+    color: rgb(255, 143, 177);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.blog-post:nth-of-type(3) ul li:nth-of-type(2) {
+    color: rgb(255, 143, 177);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body > a:last-of-type {
+    color: rgb(255, 143, 177);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+nav.blog-pagination a:last-of-type {
+    background-color: rgb(252, 226, 219);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+footer a:nth-of-type(2) {
+    color: rgb(255, 143, 177);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
